@@ -71,7 +71,8 @@ Homework 01
 4. description - описание товара, varchar
 
 ## Таблица Product categories
-
+1. category id - - главный ключ таблицы, integer
+2. name - наименование  категории, varchar
 
 
 
